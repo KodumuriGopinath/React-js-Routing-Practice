@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-image {
+  width: 280px;
+}
+.home-text {
+  color: #551e53;
+  font-size: 50px;
+}

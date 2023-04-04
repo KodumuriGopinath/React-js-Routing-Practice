@@ -1,0 +1,29 @@
+/* Write your CSS code here */
+.wave-logo {
+  width: 40px;
+}
+.logo-and-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nav-items-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.list-item {
+  padding-left: 20px;
+  font-size: 22px;
+  font-weight: bold;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.wave-text {
+  font-size: 17px;
+  padding-left: 5px;
+}

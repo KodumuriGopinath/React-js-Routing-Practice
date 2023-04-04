@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.notfound-image {
+  width: 280px;
+}
+.not-found-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
